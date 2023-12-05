@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "indekstela", "indekstela\indekstela.pyproj", "{058EAC57-3EA1-4DF1-8360-B6F5D34CEDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058EAC57-3EA1-4DF1-8360-B6F5D34CEDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058EAC57-3EA1-4DF1-8360-B6F5D34CEDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A56CE0-6B9F-426E-8724-0D6CC5908650}
+	EndGlobalSection
+EndGlobal
